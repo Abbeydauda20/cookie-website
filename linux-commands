@@ -1,0 +1,92 @@
+1  clear
+    2  cd /
+    3  cd ..
+    4  cd /
+    5  cd .
+    6  ls
+    7  cd var/
+    8  cd log
+    9  cd var
+   10  cd ..
+   11  cd log
+   12  ls
+   13  ls -al
+   14  ls
+   15  clear
+   16  ls
+   17  cat cloud-init-output.log
+   18  cd ..
+   19  cd /
+   20  whoami
+   21  ls
+   22  clear
+   23  cd home
+   24  ls
+   25  cd ec2-user/
+   26  ls
+   27  cd ..
+   28  cd /
+   29  pwd
+   30  cd home
+   31  ls
+   32  cd ..
+   33  cd /
+   34  ls
+   35  cd var
+   36  ls
+   37  cd log
+   38  ls
+   39  cat c;oud-init.
+   40  cat cloud-init.log
+   41  clear
+   42  cd ..
+   43  exit
+   44  clear
+   45  date
+   46  cal
+   47  id
+   48  uptime
+   49  clear
+   50  cd /home/ec2-user
+   51  pwd
+   52  ls
+   53  ls -al
+   54  ls
+   55  touch movies
+   56  ls
+   57  cat movies
+   58  touch grocries-list
+   59  ls
+   60  cat grocries-list
+   61  clear
+   62  ls
+   63  nano movies
+   64  cat movies
+   65  vim movies
+   66  nano songs
+   67  cat songs
+   68  nano songs
+   69  nano songs
+   70  cat songs
+   71  nano songs
+   72  vim songs
+   73  nl songs
+   74  nano songs
+   75  cat songs
+   76  nl songs
+   77  nano sports
+   78  cat sports
+   79  ls
+   80  vi courses
+   81  ls
+   82  vim player
+   83  cat courses
+   84  nano course
+   85  rm -f course
+   86  ls
+   87  nano courses
+   88  vi jjtch-batches
+   89  man ls
+   90  man cd
+   91  ls -l
+   92  history
